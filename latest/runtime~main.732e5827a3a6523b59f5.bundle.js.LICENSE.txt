@@ -1,6 +1,0 @@
-/*!
- * TOAST UI Calendar
- * @version 1.12.5 | Mon Mar 09 2020
- * @author NHN FE Development Lab <dl_javascript@nhn.com>
- * @license MIT
- */
